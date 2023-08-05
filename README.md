@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vaibhav Raheja<br>👀 I’m interested in Robotics...<br><!--🌱 I’m currently learning Computer Engineering...!--><br>🎓 I'm starting my Master's in Autonomy and Robotics at the University of Illinois Urbana-Champaign...<br>💞️ I’m looking to collaborate on Robotics Projects...<br>📫 How to reach me https://vaibhavr26.github.io/...
+👋 Hi, I’m Vaibhav Raheja<br>👀 I’m interested in Robotics...<br><!--🌱 I’m currently learning Computer Engineering...<br>!-->🎓 I'm starting my Master's in Autonomy and Robotics at the University of Illinois Urbana-Champaign...<br>💞️ I’m looking to collaborate on Robotics Projects...<br>📫 How to reach me https://vaibhavr26.github.io/...
 
 
 ## 🌐 Socials:
