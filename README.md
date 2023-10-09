@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <a href="vaibhavraheja32@gmail.com" target="_blank">
+  <a href="vaibhavvraheja@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vaibhav-raheja/" target="_blank">
@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<!--<img src="https://raw.githubusercontent.com/vaibhavr26/vaibhavr26/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/Vaibhav-Raheja/Vaibhav-Raheja/output/snake.svg" alt="Snake animation" />
 
 ###
