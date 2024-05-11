@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vaibhav Raheja and I'm a Computer Engineer, Studying Robotics at the University of Illinois Urbana-Champaign.</h2>
+<h2 align="left">Hi 👋! My name is Vaibhav Raheja and I'm a Robotics Engineer studying at the University of Illinois Urbana-Champaign.</h2>
 
 ###
 
