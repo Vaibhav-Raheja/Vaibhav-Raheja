@@ -1,0 +1,66 @@
+{
+  "permissions": {
+    "allow": [
+      "Sudo",
+      "Ssh",
+      "Bash(sudo -S rosdep init:*)",
+      "Bash(rosdep update:*)",
+      "Bash(sudo -S find:*)",
+      "Bash(sudo -S cat:*)",
+      "Bash(git checkout:*)",
+      "Bash(git submodule update:*)",
+      "Bash(ros2 pkg list:*)",
+      "Bash(find /home/vaibhav/workspace/earthsense/terra-sensors -name *zed* -o -name *pyzed*)",
+      "Bash(find /home/vaibhav/ros2_ws -name *.py -path */zed*)",
+      "Bash(python3 -c \"import pyzed; print\\(''pyzed found at:'', pyzed.__file__\\)\")",
+      "Bash(find /opt/ros/humble -name *zed* -type f)",
+      "Read(//opt/**)",
+      "Bash(python3 -c \"from seekcamera import SeekCameraManager; print\\(''Seek SDK imports work''\\)\")",
+      "Read(//home/vaibhav/**)",
+      "Bash(python3 -c \"import sys; print\\(''\\\\n''.join\\(sys.path\\)\\)\")",
+      "Bash(python3:*)",
+      "Bash(find /usr/local/zed -name *.py)",
+      "Bash(find /home/vaibhav/ros2_ws/src -name *.py -path *zed* -type f)",
+      "Bash(pip show:*)"
+    ],
+    "deny": [],
+    "additionalDirectories": [
+      "/home/vaibhav/ros2_ws",
+      "/opt/ros/humble"
+    ]
+  },
+  "model": "opusplan",
+  "statusLine": {
+    "type": "command",
+    "command": "bash /home/vaibhav/.claude/statusline-command.sh"
+  },
+  "enabledPlugins": {
+    "claude-mem@thedotmack": true,
+    "superpowers@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "claude-md-management@claude-plugins-official": true,
+    "claude-code-setup@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "claude-council@hex-plugins": true
+  },
+  "extraKnownMarketplaces": {
+    "thedotmack": {
+      "source": {
+        "source": "github",
+        "repo": "thedotmack/claude-mem"
+      }
+    },
+    "hex-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "hex/claude-marketplace"
+      }
+    }
+  },
+  "alwaysThinkingEnabled": true,
+  "effortLevel": "medium",
+  "advisorModel": "opus",
+  "autoUpdatesChannel": "stable",
+  "voiceEnabled": true
+}
